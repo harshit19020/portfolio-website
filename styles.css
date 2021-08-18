@@ -31,6 +31,7 @@ hr {
     margin: auto;
 }
 
+
 /** links **/
 .link {
     box-sizing: border-box;
@@ -188,4 +189,5 @@ hr {
 /** blogs **/
 .showcase-blog {
     padding-bottom: 6rem;
+    width: 50%;
 }
